@@ -48,3 +48,6 @@ data_tests:
   +schema: _test_failures
 flags:
   require_generic_test_arguments_property: true
+
+vars:
+  user_name: default_user_name_for_this_project
